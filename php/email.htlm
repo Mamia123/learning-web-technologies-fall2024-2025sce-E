@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>email</title>
+</head>
+<body>
+        <form method="get" action="email.php" enctype=""> <br>
+           email: <input type="text" name="email" value="test" /> <br>
+            
+            <input type="submit" name="submit" value="Submit" />
+        </form>
+</body>
+</html>
